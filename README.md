@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michael-theisen-673015205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-theisen-673015205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uwmichaeltheisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-theisen-673015205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools (pretty much all in progress):</h3>
