@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science student at UWT</h3>
 
 
--  I’m currently working on my Computer Science degree at the University of Washington Tacoma.
+-  I’m currently a Senior working on my Computer Science degree at the University of Washington.
 
--  I’m currently learning a bunch of different things all at once. Our classes have focused on Java, C, Erlang, Python, and most recently, Ruby while using Visual Studio Code and IntelliJ, but I'm focusing mostly on Python while trying to get a better understanding of Nano and Vim in my free time on my Linux virtual machine. Pretty much everything in the field is interesting, but I have recently started diving heavily into Cryptography, Quantum Computing and Q#, as well as using Python with some AI Machine Learning projects this summer 2022. Since Cryptography is an interest of mine, ethical hacking was pretty much the reason I jumped into the field, so I'm working on a few projects this summer on that as well.
+-  I’m currently learning a bunch of different things all at once. Pretty much everything in the field is interesting, but I have recently started diving heavily into Cryptography, Quantum Computing and Q#, as well as using Python with some AI Machine Learning projects this Winter 2023. Since Cryptography is an interest of mine, ethical hacking was pretty much the reason I jumped into the field, so I'm working on a few projects this summer on that as well.
 
 -  Here's how to reach me: **michaeltheisen@hotmail.com**
 
