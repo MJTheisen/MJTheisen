@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michael Theisen</h1>
-<h3 align="center">Senior Computer Science student at UW</h3>
+<h3 align="center">University of Washington graduate, Computer Science and Systems</h3>
 
 
 -  I just recently finished my Computer Science degree at the University of Washington.
