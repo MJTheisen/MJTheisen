@@ -2,7 +2,7 @@
 <h3 align="center">University of Washington graduate, Computer Science and Systems</h3>
 
 
--  I just recently finished my Computer Science degree at the University of Washington.
+-  I just recently finished my degree in Computer Science and Systems at the University of Washington.
 
 -  I’m currently working on a bunch of different things this summer including going over everything I learned already. Pretty much everything in the field is interesting, but I have chosen to focus on Cryptography, Post Quantum Cryptography, AI, and Machine Learning, as well as some research into Quantum Computing and Quantum Simulation.
 
