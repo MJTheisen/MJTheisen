@@ -2,9 +2,9 @@
 <h3 align="center">Senior Computer Science student at UW</h3>
 
 
--  I’m currently a Senior working on my Computer Science degree at the University of Washington.
+-  I just recently finished my Computer Science degree at the University of Washington.
 
--  I’m currently learning a bunch of different things all at once. Pretty much everything in the field is interesting, but I have recently started diving heavily into Cryptography, Quantum Computing and Q#, as well as using Python with some AI Machine Learning projects this Winter 2023. Since Cryptography is an interest of mine, ethical hacking was pretty much the reason I jumped into the field, so I'm working on a few projects this summer on that as well.
+-  I’m currently working on a bunch of different things this summer including going over everything I learned already. Pretty much everything in the field is interesting, but I have chosen to focus on Cryptography, Post Quantum Cryptography, AI, and Machine Learning, as well as some research into Quantum Computing and Quantum Simulation.
 
 -  Here's how to reach me: **michaeltheisen@hotmail.com**
 
