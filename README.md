@@ -4,7 +4,7 @@
 
 -  I just recently finished my degree in Computer Science and Systems at the University of Washington.
 
--  I’m currently working on a few different things this summer including reviewing all of my undergraduate materials, working on some Leetcode, revising my ChatGPT assistant, coding CRYSTALS: Kyber and other lattice-based PQ research, and coding some fun projects with IBM's Quantum Composer. I find many aspects of the field to be interesting, but I have chosen to focus on Cryptography, Post Quantum Cryptography, Machine Learning, and AI, as well as some research into Quantum Computing and Quantum Simulation. I plan to have this be the next focus of my graduate degree in the future.
+-  I’m currently working on a few projects as well as reviewing past work and undergraduate materials. This past summer, I worked on some Leetcode, revising my ChatGPT assistant, coding CRYSTALS: Kyber and other lattice-based PQ research, and coding some fun projects with IBM's Quantum Composer. I find many aspects of the field to be interesting, but I have chosen to focus on Cryptography, Post Quantum Cryptography, Machine Learning, and AI, as well as some research into Quantum Computing and Quantum Simulation. I plan to have this be the next focus of my graduate degree in the future. Most recently I began working with React and Angular.
 
 -  Here's how to reach me: **michaeltheisen@hotmail.com**
 
