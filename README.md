@@ -24,6 +24,7 @@
 - Mastercam
 - Qiskit
 - Q#
+- Machinists Apprentice 
 
 
 <!---
