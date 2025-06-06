@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm Michael Theisen</h1>
+<h1 align="center">Hello, I am Michael Theisen</h1>
 <h3 align="center">University of Washington graduate, Computer Science and Systems</h3>
 
 
--  I just recently finished my degree in Computer Science and Systems at the University of Washington.
+-  Per the request of some of my College Professors, I have begun removing the solutions to assignments from my publicly accessible GitHub account. This was done to prevent access by current students enrolled in those courses and stop this information from being used to train generative Artificial Intelligences, as per the fact that this information is considered intellectual property. I appreciate your understanding! (06/05/2025)
 
 -  I am currently working on a few projects like Javascript games for fun, and reviewing past work and undergraduate materials. This past summer, I worked on some Leetcode, revising my ChatGPT 3.5 turbo assistant, coding CRYSTALS: Kyber and other lattice-based PQ research, and coding some fun projects with IBM's Quantum Composer. I find many aspects of the field to be interesting, but I have chosen to focus on Cryptography, Post Quantum Cryptography, Machine Learning, and AI, as well as some research into Quantum Computing and Quantum Simulation. I plan to have this be the next focus of my graduate degree in the future.
 
@@ -19,6 +19,11 @@
 - Javascript 
 - Jupyter Notebooks 
 - R
+- ServiceNow
+- IQMS
+- Mastercam
+- Qiskit
+- Q#
 
 
 <!---
